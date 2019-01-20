@@ -8,3 +8,12 @@ todavia le hace falta agregar mas cosas, como:
 ## Capturas de la app
 #### pantalla de inicio
 <img src="https://github.com/lovecraftHP/clonezapp/blob/master/pantall1.png" />
+
+### pantalla de chat
+<img src="https://github.com/lovecraftHP/clonezapp/blob/master/pantall2.png" />
+
+### pantalla de estados
+<img src="https://github.com/lovecraftHP/clonezapp/blob/master/pantall3.png" />
+
+### pantalla de contactos
+<img src="https://github.com/lovecraftHP/clonezapp/blob/master/pantall4.png" />
