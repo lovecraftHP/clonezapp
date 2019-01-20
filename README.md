@@ -7,4 +7,4 @@ todavia le hace falta agregar mas cosas, como:
 
 ## Capturas de la app
 #### pantalla de inicio
-![Screenshot] (https://github.com/lovecraftHP/clonezapp/blob/master/pantall1.png)
+<img src="https://github.com/lovecraftHP/clonezapp/blob/master/pantall1.png" />
