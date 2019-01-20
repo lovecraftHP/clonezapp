@@ -6,4 +6,5 @@ todavia le hace falta agregar mas cosas, como:
 * Crear la pantalla de llamadas
 
 ## Capturas de la app
-![Screenshot]
+#### pantalla de inicio
+![Screenshot] (https://github.com/lovecraftHP/clonezapp/blob/master/pantall1.png)
